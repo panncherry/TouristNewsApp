@@ -28,4 +28,4 @@ Check out the API data endpoints here >> https://www.appsloveworld.com/free-onli
 
 ## Screenshots
 
-<img src='https://i.imgur.com/lwB73rq.png' title='Screenshot1' width='172' alt='' /> <img src='https://i.imgur.com/usF9D2i.png' title='Screenshot2' width='172' alt='' /> <img src='https://i.imgur.com/BuJ9Ixd.png' title='Screenshot3' width='172' alt='' /> <img src='https://i.imgur.com/Dik3HDW.png' title='Screenshot4' width='172' alt='' />
+<img src='https://i.imgur.com/LTA1O3k.png' title='Screenshot1' width='172' alt='' /> <img src='https://i.imgur.com/l3P8tv4.png' title='Screenshot2' width='172' alt='' /> <img src='https://i.imgur.com/eNavqI5.png' title='Screenshot3' width='172' alt='' /> <img src='https://i.imgur.com/vYJjTnb.png' title='Screenshot4' width='172' alt='' /><img src='https://i.imgur.com/KC7e8ac.png' title='Screenshot5' width='172' alt='' />
