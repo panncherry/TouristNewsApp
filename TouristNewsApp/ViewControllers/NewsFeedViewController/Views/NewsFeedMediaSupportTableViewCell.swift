@@ -66,7 +66,7 @@ class NewsFeedMediaSupportTableViewCell:UITableViewCell {
             titleLabel.text = title
         }
         
-        // Configure descriptoin
+        // Configure description
         if let description = newsFeed.newsFeedDescription {
             descriptionLabel.text = description
         }
